@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 21669
+  controlID: 18879
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 21670
+  controlID: 18880
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 21573
+  controlID: 18766
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -188,8 +188,8 @@ MonoBehaviour:
     y: 0
     width: 645
     height: 559
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -228,9 +228,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a2690000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3aeaffff56eaffff7aeaffff7eeaffff10fbffff
+      m_SelectedIDs: 92baffff
+      m_LastClickedID: -17774
+      m_ExpandedIDs: 4824feff80b4ffff98b4ffffb0b4ffffbab4ffff50baffff92baffffa8ccffff12fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -324,22 +324,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PROMETEO - Car Controller/Prefabs
+    - Assets/PROMETEO - Car Controller/Sounds
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PROMETEO - Car Controller/Prefabs
+  - Assets/PROMETEO - Car Controller/Sounds
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Unity Projects\RacingPlayground\Playground\RacingPlayground
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 240}
-    m_SelectedIDs: d86e0000
-    m_LastClickedID: 28376
-    m_ExpandedIDs: 00000000646e0000666e0000686e00006a6e00006c6e00006e6e0000706e000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: fa700000
+    m_LastClickedID: 28922
+    m_ExpandedIDs: 00000000787000007a7000007e7000008070000082700000847000001c8600008288000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000646e0000666e0000686e00006a6e00006c6e00006e6e0000706e000000ca9a3b
+    m_ExpandedIDs: 00000000787000007a7000007e7000008070000082700000847000001c8600008288000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,8 +392,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a2690000
-    m_LastClickedInstanceID: 27042
+    m_SelectedInstanceIDs: 92baffff
+    m_LastClickedInstanceID: -17774
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
@@ -477,7 +477,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 21671
+  controlID: 18881
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -732,9 +732,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.6035948, y: 1.7572519, z: -2.1514683}
+    m_Target: {x: 26.672436, y: -0.036413416, z: -40.097324}
     speed: 2
-    m_Value: {x: -3.6035948, y: 1.7572519, z: -2.1514683}
+    m_Value: {x: 26.672436, y: -0.036413416, z: -40.097324}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -781,13 +781,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.05699804, y: 0.31011143, z: -0.0186254, w: 0.94881207}
+    m_Target: {x: 0.012770582, y: 0.8935977, z: -0.025474155, w: 0.4479694}
     speed: 2
-    m_Value: {x: 0.056997783, y: 0.31011003, z: -0.018625315, w: 0.9488078}
+    m_Value: {x: 0.012770547, y: 0.8935953, z: -0.025474086, w: 0.44796818}
   m_Size:
-    m_Target: 2.332745
+    m_Target: 10
     speed: 2
-    m_Value: 2.332745
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -805,7 +805,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.0014102872, y: 0.33791193, z: -0.00051029393, w: -0.94118184}
+  m_LastSceneViewRotation: {x: 0.010481405, y: 0.94252026, z: 0.029699868, w: -0.33266723}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -865,9 +865,9 @@ MonoBehaviour:
     m_SearchString: 
   m_ActionsTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa0d4d2d
-    m_LastClickedID: 760024570
-    m_ExpandedIDs: 17c5e08c15940491fd82eecbd9edbce0528ef9f591ace117cbff3f3d
+    m_SelectedIDs: 55ab026d
+    m_LastClickedID: 1828891477
+    m_ExpandedIDs: 17c5e08cfd82eecbd9edbce0528ef9f591ace117
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -958,6 +958,10 @@ MonoBehaviour:
       \"interactions\": \"\",\n                    \"initialStateCheck\": true\n               
       },\n                {\n                    \"name\": \"HandBrake\",\n                   
       \"type\": \"Button\",\n                    \"id\": \"e52521d9-f7d3-42b0-bac9-a6e1e94bb5cc\",\n                   
+      \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
+      \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
+      },\n                {\n                    \"name\": \"Clutch\",\n                   
+      \"type\": \"Button\",\n                    \"id\": \"a44a987e-1757-421a-84b4-3d890bd44f8a\",\n                   
       \"expectedControlType\": \"Button\",\n                    \"processors\": \"\",\n                   
       \"interactions\": \"\",\n                    \"initialStateCheck\": false\n               
       }\n            ],\n            \"bindings\": [\n                {\n                   
@@ -1066,7 +1070,18 @@ MonoBehaviour:
       \"\",\n                    \"processors\": \"\",\n                    \"groups\":
       \"\",\n                    \"action\": \"HandBrake\",\n                   
       \"isComposite\": false,\n                    \"isPartOfComposite\": false\n               
-      }\n            ]\n        }\n    ],\n    \"controlSchemes\": []\n}"
+      },\n                {\n                    \"name\": \"\",\n                   
+      \"id\": \"bde2ba35-e984-40b5-a531-dc4e6b304bd9\",\n                    \"path\":
+      \"<Gamepad>/leftShoulder\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Clutch\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                },\n                {\n                   
+      \"name\": \"\",\n                    \"id\": \"37c36de7-56c3-4bf4-a3af-37e5d23f02f4\",\n                   
+      \"path\": \"<Keyboard>/shift\",\n                    \"interactions\": \"\",\n                   
+      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
+      \"action\": \"Clutch\",\n                    \"isComposite\": false,\n                   
+      \"isPartOfComposite\": false\n                }\n            ]\n        }\n   
+      ],\n    \"controlSchemes\": []\n}"
     m_IsDirty: 0
   m_Toolbar:
     m_IsDirty: 0
@@ -1127,8 +1142,8 @@ MonoBehaviour:
     y: 0
     width: 453
     height: 1299
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -1171,7 +1186,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 449
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

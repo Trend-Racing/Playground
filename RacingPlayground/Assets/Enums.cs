@@ -4,3 +4,11 @@ public enum DriveTrain
     RearWheelDrive,
     AllWheelDrive
 }
+
+public enum GearState
+{
+    Neutral,
+    Running,
+    CheckingChange,
+    ChangingGear
+}
